@@ -1,7 +1,7 @@
 {"type":"FeatureCollection", "features":[
   {"type":"Feature","properties":
     {"id":1,
-    "chapter":"Folio 311b",
+    "chapter":"Introduction",
     "zoom":1,
     "image":"img/8215877312_0fa2636ff3_o-1536x968.jpeg",
     "source-credit":"Image of Iskandar, famously known as Alexander the Great",
