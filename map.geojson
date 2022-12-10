@@ -28,11 +28,11 @@
     "geometry":{"type":"Point","coordinates":[3898,3860]}},
   {"type":"Feature","properties":
     {"id":4,
-    "chapter":"Chapter 4: Bird",
+    "chapter":"Chapter 4: conversation between tree and Sikandar",
     "zoom":5,
     "image":"img/pictorial-st-louis-insane-asylum-03.png",
-    "source-credit":"Source: Eric Erickson via Ancestry.com",
-    "source-link":"http://rootsweb.ancestry.com/~asylums/stlouis_mo/index.html",
+    "source-credit":"The prophecy ",
+    "source-link":"https://asia.si.edu/learn/shahnama/iskandar/",
     "description":"\"...and from the Insane Asylum on the southwest... \""},
     "geometry":{"type":"Point","coordinates":[5225,1185]}},
   {"type":"Feature","properties":
