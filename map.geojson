@@ -51,8 +51,8 @@
     "image":"img/pictorial-st-louis-key.png",
     "source-credit":"The depiction of two trunks",
     "source-link":"https://www.bl.uk/",
-    "description":"Like in Chinese culture, Every thing has two energies, the Yin and Yang. It holds a great significance in their culture and in that spectrum, they call the femine side- Yin and the masculine side - Yang (Solomon 2010) Similarly, The speaking tree has two sides- the male and female. The text depicts the right side of the speaking tree with male heads and limbs. The male trunk speaks during the day and in their tormented foreboding voice they warn Iskandar about his pride and greed of the throne. The male tree tells iskandar that he has seen his share of blessings and its time to quit his throne.  (Davis 2016,668-669)"},
-    "geometry":{"type":"Point","coordinates":[2205,7046]}},
+    "description":"Like in Chinese culture, every thing has two energies, the Yin and Yang. It holds a great significance in their culture and in that spectrum, they call the femine side- Yin and the masculine side - Yang (Solomon 2010) Similarly, The speaking tree has two sides- the male and female. The text depicts the right side of the speaking tree with male heads and limbs. The male trunk speaks during the day and in their tormented foreboding voice they warn Iskandar about his pride and greed of the throne. The male tree tells iskandar that he has seen his share of blessings and its time to quit his throne.  (Davis 2016,668-669)"},
+   "geometry":{"type":"Point","coordinates":[2205,7046]}},
    {"type":"Feature","properties":
     {"id":7,
     "chapter":"Chapter 7: Flowers",
