@@ -46,11 +46,28 @@
     "geometry":{"type":"Point","coordinates":[2196 ,7064]}},
   {"type":"Feature","properties":
     {"id":6,
-    "chapter":"Chapter 6: Flowers",
-    "zoom":5,
+    "chapter":"Chapter 6: the male trunk",
+    "zoom":4,
     "image":"img/pictorial-st-louis-key.png",
-    "source-credit":"Source: Library of Congress",
-    "source-link":"https://lccn.loc.gov/rc01001392",
-    "description":"\"In dividing the work into pages, it will be seen that in, cases where a building is but partially drawn on one page, it is given complete on the adjoining page. In view of the magnitude of the work, the originality of the idea, and the difficulties encountered in carrying it out, it is hoped that if any mistakes or errors have crept into the plates or pages, they will be looked upon with a lenient eye by an indulgent public.\" (Dry & Compton)"},
-    "geometry":{"type":"Point","coordinates":[3945,2920]}}
-    ]}
+    "source-credit":"The depiction of two trunks",
+    "source-link":"https://www.bl.uk/",
+    "description":"\"Like in Chinese culture, Every thing has two energies, the Yin and Yang. It holds a great significance in their culture and in that spectrum, they call the femine side- Yin and the masculine side - Yang (Solomon 2010) Similarly, The speaking tree has two sides- the male and female. The text depicts the right side of the speaking tree with male heads and limbs. The male trunk speaks during the day and in their tormented foreboding voice they warn Iskandar about his pride and greed of the throne. The male tree tells iskandar that he has seen his share of blessings and its time to quit his throne.\"  (Davis 2016,668-669)"},
+    "geometry":{"type":"Point","coordinates":[2205 , 7046]}}
+    {"type":"Feature","properties":
+    {"id":1,
+    "chapter":"Bodleian Library MS. Ouseley Add. 176 fol. 311b",
+    "zoom":1,
+    "image":"",
+    "source-credit":"",
+    "source-link":"",
+    "description":"\"This image is from the Great Book of Kings called ‘The Shahnama’ written by Firdawsi in the 11th century. It contains national epic stories of the Rulers and Kings of Greater Iran. Written in Persian, ithas been translated multiple times into different languages. This exemplary poem is regarded in a manner that The Shahnama’s stature is compared to the Great Indian Mythological epic ‘Mahabharata’. “This book is an ideal expression of royal authority, legitimacy, and epic royal duty. Amongst numerous tales of other Kings and Rulers, One such legendary story was the Story of Iskandar, popularly known as Alexander the Great. This image depicts Iskandar and the Talking Tree which is one of the finest and greatest legends from the Shahnama. It depicts Iskandar’s arrival at one of the worldly wonders from his journey, where he walks into a land of speaking tree with male and female heads. The wise tree, shown here has both human and animal heads, which forecasts the death of the king in a strange land, away from his kingdom and family.” (National Museum of Asian Art 2020))"},
+    "geometry":{"type":"Point","coordinates":[4934,7097]}},
+{"type":"Feature","properties":
+    {"id":1,
+    "chapter":"Bodleian Library MS. Ouseley Add. 176 fol. 311b",
+    "zoom":1,
+    "image":"",
+    "source-credit":"",
+    "source-link":"",
+    "description":"\"This image is from the Great Book of Kings called ‘The Shahnama’ written by Firdawsi in the 11th century. It contains national epic stories of the Rulers and Kings of Greater Iran. Written in Persian, ithas been translated multiple times into different languages. This exemplary poem is regarded in a manner that The Shahnama’s stature is compared to the Great Indian Mythological epic ‘Mahabharata’. “This book is an ideal expression of royal authority, legitimacy, and epic royal duty. Amongst numerous tales of other Kings and Rulers, One such legendary story was the Story of Iskandar, popularly known as Alexander the Great. This image depicts Iskandar and the Talking Tree which is one of the finest and greatest legends from the Shahnama. It depicts Iskandar’s arrival at one of the worldly wonders from his journey, where he walks into a land of speaking tree with male and female heads. The wise tree, shown here has both human and animal heads, which forecasts the death of the king in a strange land, away from his kingdom and family.” (National Museum of Asian Art 2020))"},
+    "geometry":{"type":"Point","coordinates":[4934,7097]}},
