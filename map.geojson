@@ -38,7 +38,7 @@
   {"type":"Feature","properties":
     {"id":5,
     "chapter":"Chapter 5: the female trunk",
-    "zoom":3,
+    "zoom":4,
     "image":"img/IMG_0225.jpg",
     "source-credit":"The depiction of two trunks ",
     "source-link":"https://www.bl.uk/",
@@ -47,7 +47,7 @@
   {"type":"Feature","properties":
     {"id":6,
     "chapter":"Chapter 6: the male trunk",
-    "zoom":3,
+    "zoom":4,
     "image":"img/IMG_0225.jpg",
     "source-credit":"The depiction of two trunks",
     "source-link":"https://www.bl.uk/",
